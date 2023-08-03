@@ -1,37 +1,36 @@
 ---
 layout: page
 title: 关于我们
-tags: [about, Jekyll, theme, moon]
+tags: [about, 铁路, 机车]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+ 憨批白北搞的最后一个博客，一切的执念。
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 从头到脚
+* 一切源于一个混沌的开始。
+* 成立 塞岩Cyanbu   //一些奇妙的组合
+* 改名 白北制造     //白色北方重工业集团 依然那么中二。
+* 改名 科瑞塔工作室 //Krita意味着新纪元的开启，结果还是无能为力。
 
-## Preview
+## 6015铁西区   
+* 铁路机车/客货车/稀有车型 插件分享
+* 游戏模型建模技术/贴图绘制经验分享
+* 铁路摄影
+* 日常话题讨论  
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## 成员
+* 代号:F     蒸汽机/动车检修
+* 编号:57    素材源泉
+* 乐师:27    货车之王
+* 学者:Mya   内燃之王
+* 快男:T     和谐之王
+* 鸽王:BB    挖坑之王
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## 鸣谢
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+* 所有人！ 但傻逼不在鸣谢范围内！
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+© 2021 KritaStudio All Rights Reserved.
