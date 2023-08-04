@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 关于我们
-tags: [about, 铁路, 机车]
+title: 关于科瑞塔
+tags: [关于我们, 铁路, 机车]
 date: 2016-03-21
 comments: false
 ---
