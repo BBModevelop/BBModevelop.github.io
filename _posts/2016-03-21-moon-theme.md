@@ -1,36 +1,36 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "韶山1型驾驶室 开发日志"
+date:   2023-08-01
+excerpt: "从无到有的开发日志，包括制作思路，建模规划，UV展开，材质处理等。"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- 开发日志 
+- 驾驶室
+- 韶山1
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![SS1 Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
     
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
+<center>这是一篇关于<b>韶山1型电力机车</b> 的驾驶室开发日志</center>
      
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+ 这一切的开始 当然首先得从**照片素材**的寻找，对**设备基本结构**的了解开始。
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
+---
       
-## Installation
-* Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
-* Edit `_config.yml` file.
-* Remove sample posts from `_posts` folder and add yours.
-* Edit `index.md` file in `about` folder.
-* Change repo name to `YourUserName.github.io`    
-     
-That's all.
+## 驾驶室框架
 
-## Preview
+* 我们可以从驾驶室整体龙骨开始，但是好像也不需要那么细致。
+* 但是我还是想看看真实的结构是什么样子的，于是我打开了[搜索引擎](https://www.google.com/)
+* 关键字`韶山1型电力机车驾驶室` 肥车！
+* 搜索结果其实蛮尴尬的，就`很少`的一些图片资料。
+* 突然回想起来[火车科普贴】S02E03重制版：《这个时代叫韶山》——株洲厂|中国铁道部韶山1（6Y1/SS1）型电力机车记录性影片]（https://www.bilibili.com/video/BV1Yf4y1V76o）这个视频里面有一两张拆解现场的照片，真是帮了我大忙了！  在这里感谢一下@双鱼座列车的给力科普！
+* 大致了解结构以后就可以开始制作初步的驾驶室模型了！
+     
+冲！
+
+## 设备布置
 
 {% capture images %}
 	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
@@ -38,6 +38,8 @@ That's all.
 	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+
+正如你所看到的，全都有了大概齐。
 
 ---
 
@@ -47,114 +49,7 @@ That's all.
 {% endcapture %}
 {% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}      
       
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
-
-## Site Setup
-A quick checklist of the files you’ll want to edit to get up and running.    
-
-### Site Wide Configuration
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
-
-#### title
-
-The title of your site... shocker!
-
-Example `title: My Awesome Site`
-
-#### bio
-
-The description to show on your homepage.
-
-#### description
-
-The description to use for meta tags and navigation menu.
-
-#### url
-
-Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
-
-Examples:
-
-{% highlight yaml %}
-url: http://taylantatli.me/Moon
-url: http://localhost:4000
-url: //cooldude.github.io
-url:
-{% endhighlight %}
-
-#### reading_time
-
-Set true to show reading time for posts. And set `words_per_minute`, default is 200.
-
-#### logo
-Your site's logo. It will show on homepage and navigation menu. Also used for twitter meta tags.
-
-#### background
-Image for background. If you don't set it, color will be used as a background.
-
-#### Google Analytics and Webmaster Tools
-
-Google Analytics UA and Webmaster Tool verification tags can be entered in `_config.yml`. For more information on obtaining these meta tags check [Google Webmaster Tools](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=35179) and [Bing Webmaster Tools](https://ssl.bing.com/webmaster/configure/verify/ownership) support.
-
-#### MathJax
-It's enabled. But if you don't want to use it. Set it false in  `_config.yml`.
-
-#### Disqus Comments
-Set your disqus shortname in `_config.yml` to use comments.
+啊啊啊啊     
 
 ---
 
-### Navigation Links
-
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
-
-{% highlight yaml %}
-- title: Home
-  url: /
-
-- title: Blog
-  url: /blog/
-
-- title: Projects
-  url: /projects/
-
-- title: About
-  url: /about/
-
-- title: Moon
-  url: http://taylantatli.me/Moon
-{% endhighlight %}
-
----
-
-## Layouts and Content
-
-Moon Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
-
-### Feature Image
-
-You can set feature image per post. Just add `feature: some link` to your post's front matter.
-
-```
-feature: /assets/img/some-image.png
-or
-feaure: http://example.com/some-image.png
-```    
- This also will be used for twitter card:
-
-![Moon Twitter Card](https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png)
-
-### Comments
-To show disqus comments for your post add `comments: true` to your post's front matter.
-
----
-
-## Questions?
-
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
-
----
-
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
