@@ -9,14 +9,19 @@ tag:
 - 驾驶室
 - 韶山1
 comments: true
+feaure: https://pic.imgdb.cn/item/64d103ee1ddac507cceeea00.jpg
 --- 
     
-<center>这是一篇关于<b>韶山1型电力机车</b> 的驾驶室开发日志</center>
+<center>这是一篇关于<b>韶山1型电力机车</b> 的驾驶室开发日志 v0.1</center>
      
- 这一切的开始 当然首先得从**照片素材**的寻找，对**设备基本结构**的了解开始。
+
 
 ---
-      
+
+这一切的开始 当然首先得从**照片素材**的寻找，对**设备基本结构**的了解开始。
+
+---
+
 ## 驾驶室框架
 
 * 我们可以从驾驶室整体龙骨开始，但是好像也不需要那么细致。
@@ -27,18 +32,15 @@ comments: true
 * 这个视频里面有一两张拆解现场的照片，真是帮了我大忙了！  在这里感谢一下@双鱼座列车的给力科普！
 * 大致了解结构以后就可以开始制作初步的驾驶室模型了！
      
-冲！
+---
 
 ## 设备布置
 
 {% capture images %}
 	https://pic.imgdb.cn/item/64d103ee1ddac507cceeea00.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=1 %}
+{% include gallery images=images caption="素材的收集透过互联网" cols=1 %}
 
-正如你所看到的，大概齐了。
-
----
+正如你所看到的，大概齐了，冲！
 
 ---
-
