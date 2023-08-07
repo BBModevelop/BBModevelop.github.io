@@ -5,7 +5,7 @@ description:        "QQ群:830313841"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'https://pic.imgdb.cn/item/64d10df91ddac507cc0cdb27.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://BBModevelop.github.io
