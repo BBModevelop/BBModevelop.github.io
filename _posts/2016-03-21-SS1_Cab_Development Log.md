@@ -9,7 +9,7 @@ tag:
 - 驾驶室
 - 韶山1
 comments: true
-feaure: https://pic.imgdb.cn/item/64d103ee1ddac507cceeea00.jpg
+
 --- 
     
 <center>这是一篇关于<b>韶山1型电力机车</b> 的驾驶室开发日志 v0.1</center>
