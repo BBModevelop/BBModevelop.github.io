@@ -51,6 +51,6 @@ comments: true
 ---
 
 {% capture images %}
-	'assets\img\ss1\cab\ss1cab01.jpg'
+	https://github.com/BBModevelop/BBModevelop.github.io/blob/master/assets/img/ss1/cab/ss1cab01.jpg
 {% endcapture %}
 {% include gallery images=images caption="初模的阶段，主要作用是每个设备之间的位置关系。" cols=1 %}
