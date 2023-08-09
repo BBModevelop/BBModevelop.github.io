@@ -3,7 +3,7 @@ layout: post
 title:  "韶山1型驾驶室 开发日志"
 date:   2023-08-01
 excerpt: "从无到有的开发日志，包括制作思路，建模规划，UV展开，材质处理等。"
-project: true
+#project: true
 tag:
 - 开发日志 
 - 驾驶室
@@ -54,3 +54,11 @@ comments: true
 	https://github.com/BBModevelop/BBModevelop.github.io/blob/master/assets/img/ss1/cab/ss1cab01.jpg
 {% endcapture %}
 {% include gallery images=images caption="初模的阶段，主要作用是每个设备之间的位置关系。" cols=1 %}
+
+* 做初模这个步骤不要嫌麻烦，这样在没有详细布置数据的时候，能尽可能的做到肉眼上的对齐！
+* 当然，你知道每个设备之间间隔多少毫米的话，当我没说~
+
+---
+
+## 各种设备的制作
+
