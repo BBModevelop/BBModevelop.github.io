@@ -49,3 +49,8 @@ comments: true
 * 大概齐了，冲！
 
 ---
+
+{% capture images %}
+	'assets/img/placeholder-big.jpg'
+{% endcapture %}
+{% include gallery images=images caption="初模的阶段，主要作用是每个设备之间的位置关系。" cols=1 %}
