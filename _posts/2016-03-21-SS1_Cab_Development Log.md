@@ -51,14 +51,22 @@ comments: true
 ---
 
 {% capture images %}
-	https://github.com/BBModevelop/BBModevelop.github.io/blob/master/assets/img/ss1/cab/ss1cab01.jpg
+	https://pic.imgdb.cn/item/64d4fc241ddac507cc813934.jpg
 {% endcapture %}
 {% include gallery images=images caption="初模的阶段，主要作用是每个设备之间的位置关系。" cols=1 %}
 
 * 做初模这个步骤不要嫌麻烦，这样在没有详细布置数据的时候，能尽可能的做到肉眼上的对齐！
 * 当然，你知道每个设备之间间隔多少毫米的话，当我没说~
-
----
+ 
 
 ## 各种设备的制作
 
+{% capture images %}
+	https://pic.imgdb.cn/item/64d5016c1ddac507cc90bc28.jpg
+	https://pic.imgdb.cn/item/64d5016c1ddac507cc90bba5.jpg
+	https://pic.imgdb.cn/item/64d5016c1ddac507cc90bbe8.jpg
+{% endcapture %}
+{% include gallery images=images caption="就根据照片还原就行。" cols=3 %}
+
+* 这几个设备吧，我一个都不认识。
+* 但是吧，我觉得还原最基本的结构应该？不难吧？
