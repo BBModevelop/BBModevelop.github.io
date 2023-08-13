@@ -2,7 +2,7 @@
 layout: post
 title:  "记忆中的楼宇·中国·传奇的三线建设_插件开发日志"
 date:   2023-08-01
-excerpt: "从无到有的开发日志，包括制作思路，建模规划，UV展开，材质处理等。"
+excerpt: "写给自己的回忆录。"
 #project: true
 tag:
 - 开发日志 
