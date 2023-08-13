@@ -52,7 +52,7 @@ comments: true
 {% capture images %}
 	https://pic.imgdb.cn/item/64d87e771ddac507cc8d4746.jpg
 {% endcapture %}
-{% include gallery images=images caption="图片截取至[漫鱼快游](https://space.bilibili.com/412942310)" cols=1 %}
+{% include gallery images=images caption="图片截取至[漫鱼快游]" cols=1 %}
 
 ---
 
