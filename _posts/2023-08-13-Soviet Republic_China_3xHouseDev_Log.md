@@ -88,6 +88,12 @@ comments: true
 ![lou1](https://pic.imgdb.cn/item/64e62c6f661c6c8e543a4dd7.png)
 把做好的模块按照楼的层数拼接在一起就行，这和某种意义的__又有什么区别呢？
 
+---
+
+## 展开UV
+
+木有什么好说的，共用的！光影的不要！
+把共用的部分展好了，再拼回去就行~ ![lou2](https://pic.imgdb.cn/item/64ee108c661c6c8e54525f42.png)
 
 # 未完待续
 
