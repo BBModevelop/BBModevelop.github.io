@@ -109,14 +109,31 @@ TRS和SR都没有较好的光照系统，如果有lightingmap那就太好了。
 比如一楼的加盖 二楼的阳台，蓝色的玻璃窗，灰色的雨棚，黑色的防盗窗等等。 
 以上提到的东西 都可以单独出来，在之后的其他楼栋中用到，也是体现了一种模块化的中心思想！
 ![lou3](https://pic.imgdb.cn/item/64ee2c96661c6c8e5459daef.png)
+
 根据现实的情况我简单的做了一些防盗窗啊空掉外机之类的，并且做了三组不一样的摆放。如下图
 ![lou33](https://pic.imgdb.cn/item/64f9e6cf661c6c8e5469c302.jpg)
-哦对了！ 一定要注意面数不要太多  合理运用 该用透贴用透贴  该用模型用模型  不要像我一样偷懒！！！
 
+
+哦对了！ 一定一定要注意面数不要太多 ，记得合理运用分配资源。 该用透贴用透贴，该用模型用模型，不要像我一样偷懒！！！
+
+做了灰砖的红砖的混凝土的和有点意思的
+{% capture images %}
+	https://pic.imgdb.cn/item/64fdd464661c6c8e5440fede.png
+	https://pic.imgdb.cn/item/64fdd462661c6c8e5440feac.jpg
+	https://pic.imgdb.cn/item/64fdd463661c6c8e5440febb.jpg
+{% endcapture %}
+{% include gallery images=images caption="多做一些不一样的风格，准备变形！  一单元变二单元 变变变！" cols=3 %}
+
+---
+
+七七八八都有了，接下来就是深入的变形。  变成三层的四层的  联排四个单元的等等
 
 ---
 
 ## 去到该去的地方
+---
+
+[点击下载](https://你先不要点){: .btn}
 
 ---
 <center>日志最后更新日期2023.8.29</center>
