@@ -1,56 +1,33 @@
 ---
 layout: page
-title: 关于科瑞塔
-tags: [关于我们, 铁路, 机车]
+title: About me
+tags: [About me]
 date: 2016-03-21
 comments: false
 ---
     
-#  计划启动
+#  Launch!
 
-* 我们不知道是否应该坚持免费，但我们会坚持创作。   
-* 我们也想在自己热爱的地方，留下点什么。
-* 前辈留下了许许多多宝贵的财富，和一个美丽无比的精神内核。
-* 我做不到，我做不到无视自己的劳动成果，被肆意剽窃，但我们依旧无法抗衡。
-* 这个圈子已然无药可救，不是说长江后浪推前浪吗？你看这一浪又一浪。
-* 害，授人鱼，不如授人以渔吧。
-* 走一步看一步，写到哪儿算哪儿。
+* Keep on creating.
 
-## 关于团队起源
+* Leave something behind in this life time.
 
-* 一切源于一个混沌的开始。
-* 树丶 成立 塞岩Cyanbu_________//一些奇妙的组合，以改贴图为主。特别中二的少年，国V587 想起来真的搞笑。
-* 改名 白 北 制 造_________ //白色北方重工业集团 依然那么中二。 沉淀了一下，能力提升不少。 和韶南冯总疯起来没完没了~~  GO GO GO A2高闪 秋梨膏！
-* 改名 科瑞塔工作室_________//Krita意味着新纪元的开启，折腾一年结果还是无能为力。
-
-## 在铁西区你能看到什么？   
-
-* 铁路机车/客货车/稀有车型 插件分享。或许吧~
-
-* 游戏模型建模技术/贴图绘制经验分享。应该吧~
-
-* 铁路摄影。没准哦！
-
-* 日常话题讨论。丢手柄！ 飞起来！！
-
-* 有开放第三方插件制作的游戏 讨论
-
-## 现役成员
-
-* 代号:F        _________蒸汽之王
-* 编号:57       _________素材之王
-* 乐师:27       _________货车之王
-* 学者:Mya      _________内燃之王
-* 快速:T        _________和谐之王
-* 美术:白北     _________挖坑之王
-* 程序:王奶     _________低调之王
-* 线路:H        _________成昆之王
+* Take one step at a time and write wherever you can.
 
 
-## 鸣谢
+## What can you see here?   
+
+* Railroad locomotives/passenger wagons/steam locomotives, plugin creation log.
+
+* Game model modeling, technical/texture drawing, experience sharing.
+
+* Railroad Photography
 
 
-* 所有人！ 但傻逼不在鸣谢范围内。
+## Vote of thanks
+
+
+* Everyone! 
       
 
-            © 2023 KritaStudio All Rights Reserved.
+            © 2023 Cypress All Rights Reserved.
