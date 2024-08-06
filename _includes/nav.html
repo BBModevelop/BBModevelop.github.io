@@ -1,16 +1,16 @@
 	<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
 		<button class="dl-trigger">Open Menu</button>
 		<ul class="dl-menu">
-			<li><a href="{{ site.url }}/">主页</a></li>
+			<li><a href="{{ site.url }}/">Main</a></li>
 			<li>
-				<a href="#">关于科瑞塔</a>
+				<a href="#">About Me</a>
 				<ul class="dl-submenu">
 					<li>
 						<img src="https://7up.pics/images/2023/08/05/4c1f2763642077c6f496293b195b185df87a3d38.md.png" alt="{{ site.title }} photo" class="author-photo">
-						<h4>白北一介</h4>
+						<h4>Cypress-Ik727</h4>
 						<p>{{ site.description }}</p>
 					</li>
-					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">关于我们</span></a></li>
+					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">About Me</span></a></li>
 					{% if site.email %}<li>
                         <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
                     </li>{% endif %}
@@ -88,8 +88,8 @@
 			<li>
 				<a href="#">交流分享</a>
 				<ul class="dl-submenu">
-					<li><a href="{{ site.url }}/posts/">全部内容</a></li>
-					<li><a href="{{ site.url }}/tags/">全部标签</a></li>
+					<li><a href="{{ site.url }}/posts/">All content</a></li>
+					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
 				</ul>
 			</li>
 			{% for link in site.data.navigation %}
